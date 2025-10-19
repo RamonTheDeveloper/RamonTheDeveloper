@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu perfil! 👋
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db106837-c620-4ea9-b5a0-ce8e6fc31032"/>alt="Banner do meu Perfil"> 
+  <img src="https://github.com/user-attachments/assets/db106837-c620-4ea9-b5a0-ce8e6fc31032"
 </p>
 <p align="center">
   <em>Banner editado pelo Adobe Photoshop</em>
