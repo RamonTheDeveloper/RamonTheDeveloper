@@ -108,7 +108,7 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
   <a href="https://www.linkedin.com/in/ramonoficial/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIN" width="60" height="60"/>
   </a>
-  <a href="https://github.com/BieeeLLLTheDeveloper64" target="_blank" rel="noreferrer">
+  <a href="https://github.com/RamonTheDeveloper" target="_blank" rel="noreferrer">
     <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" alt="GitHub" width="60" height="60"/>
   </a>
     <a href="https://www.instagram.com/bieeelllramos/" target="_blank" rel="noreferrer">
