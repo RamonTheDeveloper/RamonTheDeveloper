@@ -118,8 +118,8 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
     <a href="mailto:gabrielramonsouza20@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" width="60" height="60"/>
   </a>
-    <a href="mailto:gabrielramonsouza20@outlook.com.br" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/475px-Outlook.com_icon_%282012-2019%29.svg.png" alt="Outlook" width="60" height="60"/>
+    <a href="https://www.threads.com/@bieeelllramos" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Threads_%28app%29_logo.svg/2048px-Threads_%28app%29_logo.svg.png" alt="Threads" width="60" height="60"/>
   </a>
 
 Vamos nos conectar! 
