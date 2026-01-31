@@ -3,9 +3,6 @@
   <img src="https://github.com/user-attachments/assets/db106837-c620-4ea9-b5a0-ce8e6fc31032"
 </p>
 <p align="center">
-  <em>Banner editado pelo Adobe Photoshop</em>
-</p>
-<p align="center">
   <em>"A programação é a linguagem que usamos para fazer perguntas ao universo e, às vezes, obter respostas visuais."</em>
 </p>
 
