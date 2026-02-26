@@ -84,21 +84,7 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
     <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="40" height="40"/>
   </a>
 </p>
-
-### 👉 Design Gráfico
-
-</p>
-<p align="left">
-  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/br/creativecloud/buy/students/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/br/products/indesign.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1051px-Adobe_InDesign_CC_icon.svg.png" alt="Adobe InDesign" width="40" height="40"/>
-  </a>
-  
+    
 ## 📫 Meus Contatos
 </p>
 <p align="left">
