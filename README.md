@@ -108,15 +108,9 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
   <a href="https://github.com/RamonTheDeveloper" target="_blank" rel="noreferrer">
     <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" alt="GitHub" width="60" height="60"/>
   </a>
-    <a href="https://www.instagram.com/bieeelllramos/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="GitHub" width="60" height="60"/>
-  </a>
     </a>
     <a href="mailto:gabrielramonsouza20@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" width="60" height="60"/>
-  </a>
-    <a href="https://www.threads.com/@bieeelllramos" target="_blank" rel="noreferrer">
-    <img src="https://cbx-prod.b-cdn.net/COLOURBOX65108147.jpg?width=800&height=800&quality=70" alt="Threads" width="60" height="60"/>
   </a>
 
 Vamos nos conectar! 
