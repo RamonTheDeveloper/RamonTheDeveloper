@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu perfil! 👋
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db106837-c620-4ea9-b5a0-ce8e6fc31032"
+  <img src="https://github.com/user-attachments/assets/db106837-c620-4ea9-b5a0-ce8e6fc31032" />
 </p>
 <p align="center">
   <em>"A programação é a linguagem que usamos para fazer perguntas ao universo e, às vezes, obter respostas visuais."</em>
@@ -47,26 +47,26 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
   <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
-    </a>
-    <a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/2048px-WebStorm_Icon.svg.png" alt="WebStorm" width="40" height="40"/>
   </a>
-    <a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2048px-Clion.svg.png" alt="CLion" width="40" height="40"/>
   </a>
-    <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" alt="DataGrip" width="40" height="40"/>
   </a>
-    </a>
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" alt="PHPStorm" width="40" height="40"/>
   </a>
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  </a>
 </p>
+
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"/>
@@ -86,7 +86,7 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
 </p>
     
 ## 📫 Meus Contatos
-</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ramonoficial/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIN" width="60" height="60"/>
@@ -94,9 +94,9 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
   <a href="https://github.com/RamonTheDeveloper" target="_blank" rel="noreferrer">
     <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" alt="GitHub" width="60" height="60"/>
   </a>
-    </a>
-    <a href="mailto:gabrielramonsouza20@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:gabrielramonsouza20@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" width="60" height="60"/>
   </a>
+</p>
 
-Vamos nos conectar! 
+Vamos nos conectar!
