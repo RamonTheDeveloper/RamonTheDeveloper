@@ -45,10 +45,16 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
     
 ## 📫 Meus Contatos
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramonoficial/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIN" width="60" height="60"/></a>
-  <a href="https://github.com/RamonTheDeveloper" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" alt="GitHub" width="60" height="60"/></a>
-  <a href="mailto:gabrielramonsouza20@gmail.com" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" width="60" height="60"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramonoficial/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" style="vertical-align: middle; margin: 8px;"/>
+  </a>
+  <a href="https://github.com/RamonTheDeveloper" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="vertical-align: middle; margin: 8px;"/>
+  </a>
+  <a href="mailto:gabrielramonsouza20@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="vertical-align: middle; margin: 8px;"/>
+  </a>
 </p>
 
 Vamos nos conectar!
