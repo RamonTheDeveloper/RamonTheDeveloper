@@ -37,7 +37,7 @@ Como estudante de Física na **Universidade Federal do Amazonas (UFAM)**, busco 
 
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5" height="40" style="vertical-align: middle; margin: 5px;"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3" height="40" style="vertical-align: middle; margin: 5px;"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="vertical-align: middle; margin: 5px;"/>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript" height="40" style="vertical-align: middle; margin: 5px;"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react" height="40" style="vertical-align: middle; margin: 5px;"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask" height="40" style="vertical-align: middle; margin: 5px;"/></a>
